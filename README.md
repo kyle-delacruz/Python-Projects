@@ -1,6 +1,6 @@
 # Python Projects Portfolio
 
-Welcome to my Python projects repository c:
+Welcome to my Python projects repository:)
 
 This repository is a curated collection of Python projects I have worked on through my studies at Portland State University, as well as independent, creative projects I am personally passionate about. It serves as both a learning archive and a professional portfolio showcasing my growth in data analysis, modeling, and problem solving.
 
