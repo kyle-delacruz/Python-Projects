@@ -1,6 +1,6 @@
 # Python Projects Portfolio
 
-Welcome to my Python projects repository.
+Welcome to my Python projects repository c:
 
 This repository is a curated collection of Python projects I have worked on through my studies at Portland State University, as well as independent, creative projects I am personally passionate about. It serves as both a learning archive and a professional portfolio showcasing my growth in data analysis, modeling, and problem solving.
 
@@ -17,11 +17,11 @@ The goal of this repository is to:
 Projects in this repository come from two main sources:
 
 ### Portland State University
-These projects were completed as part of coursework in business analytics, data science, economics, and quantitative analysis. They focus on:
-- Data cleaning and preprocessing
+These projects were completed as part of coursework in data science, business analytics, economics, and quantitative analysis. They focus on:
 - Exploratory data analysis
 - Statistical modeling and regression
 - Machine learning fundamentals
+- Data cleaning and preprocessing
 - Business and economic insights using data
 
 ### Personal & Creative Projects
@@ -33,18 +33,8 @@ These projects are self-driven and reflect topics I am genuinely interested in e
 - Visualization-driven analysis
 
 ## Tools & Skills Demonstrated
-- Python
-- Pandas, NumPy
-- scikit-learn
-- Matplotlib, Seaborn
+- Python, Pandas, NumPy
+- scikit-learn, Matplotlib, Seaborn
 - Jupyter Notebooks
 - Data cleaning, modeling, and visualization
 - Analytical thinking and problem framing
-
-## Repository Structure
-
-Each project is organized in its own folder and typically includes:
-- A Jupyter notebook or Python script
-- A brief project description
-- Data source information
-- Key findings or outcomes
